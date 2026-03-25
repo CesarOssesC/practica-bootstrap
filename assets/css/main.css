@@ -1,0 +1,10 @@
+.btn-moradito {
+    background-color: blueviolet;
+    color: aliceblue;
+    box-shadow: 3px 3px 10px rgb(64, 64, 64);
+}
+
+.btn-moradito:hover {
+    background-color: rgb(107, 25, 183);
+    color: aliceblue;
+}
